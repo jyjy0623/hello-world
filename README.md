@@ -1,3 +1,5 @@
 # hello-world
 hello world repository
-first commit
+
+Today my first commit on github.
+The date is 2018 May 6th.
